@@ -9,7 +9,7 @@ Leverage the unofficial python API for FinViz to create custom stock screeners t
 Download current international stock stats.  Load & perform lightweight staging via finviz-analytics notebook.
 https://github.com/sahudsonleck/finviz-analytics/blob/master/finviz.ipynb.  
 Associated analytics is located in Tableau public gallery 
-https://public.tableau.com/en-us/gallery/?tab=viz-of-the-day&type=viz-of-the-day&page=6
+https://public.tableau.com/profile/stephanie.hudson4873#!/vizhome/USValueStocks/finviz
 Review the associated data model and pandas-profile reports for data domain details. 
 
 # Data Sets 
